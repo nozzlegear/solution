@@ -1,0 +1,10 @@
+# Ignore built files and packages
+bin
+obj
+packages
+
+# According to the paket docs, paket.exe should never be checked into source control
+paket.exe
+
+# Ignore visual studio files
+.vs
